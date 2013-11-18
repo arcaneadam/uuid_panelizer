@@ -1,0 +1,4 @@
+name = UUID Panelizer
+description = Helps panelized content save correctly
+core = 7.x
+package = Features
